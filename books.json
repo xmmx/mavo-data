@@ -1,0 +1,15 @@
+{
+	"book": [
+		{
+			"image": "https://upload.wikimedia.org/wikipedia/ru/6/62/BraveNewWorld_FirstEdition.jpg",
+			"name": "О дивный новый мир",
+			"author": "Олдос Хаксли",
+			"rating": 5,
+			"tag": [
+				"Антиутопия",
+				"Будущее"
+			],
+			"description": "Описание"
+		}
+	]
+}
